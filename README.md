@@ -1,2 +1,0 @@
-# SpacingWare
-Spaced
